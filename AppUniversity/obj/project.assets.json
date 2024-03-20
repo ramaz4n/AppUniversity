@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AppUniversity.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AppUniversity.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppUniversity.Model.dll": {}
+        }
+      },
+      "AppUniversity.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AppUniversity.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AppUniversity.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppUniversity.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppUniversity.Model/1.0.0": {
+      "type": "project",
+      "path": "../AppUniversity.Model/AppUniversity.Model.csproj",
+      "msbuildProject": "../AppUniversity.Model/AppUniversity.Model.csproj"
+    },
+    "AppUniversity.Shared/1.0.0": {
+      "type": "project",
+      "path": "../AppUniversity.Shared/AppUniversity.Shared.csproj",
+      "msbuildProject": "../AppUniversity.Shared/AppUniversity.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AppUniversity.Model >= 1.0.0",
+      "AppUniversity.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ramazan Abdullaev\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ramazan Abdullaev\\Desktop\\C#\\AppUniversity\\AppUniversity\\AppUniversity.csproj",
+      "projectName": "AppUniversity",
+      "projectPath": "C:\\Users\\Ramazan Abdullaev\\Desktop\\C#\\AppUniversity\\AppUniversity\\AppUniversity.csproj",
+      "packagesPath": "C:\\Users\\Ramazan Abdullaev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ramazan Abdullaev\\Desktop\\C#\\AppUniversity\\AppUniversity\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ramazan Abdullaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Ramazan Abdullaev\\Desktop\\C#\\AppUniversity\\AppUniversity.Model\\AppUniversity.Model.csproj": {
+              "projectPath": "C:\\Users\\Ramazan Abdullaev\\Desktop\\C#\\AppUniversity\\AppUniversity.Model\\AppUniversity.Model.csproj"
+            },
+            "C:\\Users\\Ramazan Abdullaev\\Desktop\\C#\\AppUniversity\\AppUniversity.Shared\\AppUniversity.Shared.csproj": {
+              "projectPath": "C:\\Users\\Ramazan Abdullaev\\Desktop\\C#\\AppUniversity\\AppUniversity.Shared\\AppUniversity.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\bin\Debug\netcoreapp3.1\AppUniversity.Shared.deps.json
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\bin\Debug\netcoreapp3.1\AppUniversity.Shared.dll
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\bin\Debug\netcoreapp3.1\AppUniversity.Shared.pdb
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\bin\Debug\netcoreapp3.1\AppUniversity.Model.dll
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\bin\Debug\netcoreapp3.1\AppUniversity.Model.pdb
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\obj\Debug\netcoreapp3.1\AppUniversity.Shared.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\obj\Debug\netcoreapp3.1\AppUniversity.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\obj\Debug\netcoreapp3.1\AppUniversity.Shared.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\obj\Debug\netcoreapp3.1\AppUniversity.Shared.AssemblyInfo.cs
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\obj\Debug\netcoreapp3.1\AppUniversity.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\obj\Debug\netcoreapp3.1\AppUniversity.Shared.csproj.CopyComplete
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\obj\Debug\netcoreapp3.1\AppUniversity.Shared.dll
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Shared\obj\Debug\netcoreapp3.1\AppUniversity.Shared.pdb

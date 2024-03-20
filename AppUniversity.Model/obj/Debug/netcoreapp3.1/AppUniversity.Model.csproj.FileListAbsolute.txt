@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\bin\Debug\netcoreapp3.1\AppUniversity.Model.deps.json
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\bin\Debug\netcoreapp3.1\AppUniversity.Model.dll
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\bin\Debug\netcoreapp3.1\AppUniversity.Model.pdb
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\obj\Debug\netcoreapp3.1\AppUniversity.Model.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\obj\Debug\netcoreapp3.1\AppUniversity.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\obj\Debug\netcoreapp3.1\AppUniversity.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\obj\Debug\netcoreapp3.1\AppUniversity.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\obj\Debug\netcoreapp3.1\AppUniversity.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\obj\Debug\netcoreapp3.1\AppUniversity.Model.dll
+C:\Users\user\Desktop\sharp\AppUniversity\AppUniversity.Model\obj\Debug\netcoreapp3.1\AppUniversity.Model.pdb

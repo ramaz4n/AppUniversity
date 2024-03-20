@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AppUniversity/1.0.0": {
+        "dependencies": {
+          "AppUniversity.Model": "1.0.0",
+          "AppUniversity.Shared": "1.0.0"
+        },
+        "runtime": {
+          "AppUniversity.dll": {}
+        }
+      },
+      "AppUniversity.Model/1.0.0": {
+        "runtime": {
+          "AppUniversity.Model.dll": {}
+        }
+      },
+      "AppUniversity.Shared/1.0.0": {
+        "dependencies": {
+          "AppUniversity.Model": "1.0.0"
+        },
+        "runtime": {
+          "AppUniversity.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppUniversity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppUniversity.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppUniversity.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
